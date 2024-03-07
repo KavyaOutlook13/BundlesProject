@@ -1,0 +1,2 @@
+A bundle is a product that is composed of one or more products. An Example of a bundle would be a bike having products as wheels, pedals, seats, etc., Again Wheel can be a bundle here having frames and tubes as it's products.
+Solution designed is for Dynamic structure producing output like how many maxing bundles can be created out of available stock with taking input of no. prodcuts required for 1  bundle formation.
